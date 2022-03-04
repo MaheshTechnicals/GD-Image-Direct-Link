@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  padding: 20px;
+  max-height: 100%;
+  max-width: 100%;
+
+}
+
+#yourId {
+  padding: 10px;
+  background: black;
+  color: white;
+  margin-bottom: 20px;
+}
+
+#getLink{
+  text-decoration: none;
+  padding: 10px 40px;
+  border: 2px solid blueviolet;
+  margin-bottom: 20px;
+}
+
+output {
+  padding: 20px;
+  max-height: 100%;
+  max-width: 100%;
+
+}
+
+#btn2{
+  border: 2px solid yellow ;
+  padding: 10px 40px ;
+  max-height: 100%;
+  max-width: 100%;
+  margin: 10px;
+  background: black;
+  color: blue;
+  display: flex ;
+} 
